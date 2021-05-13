@@ -1,0 +1,16 @@
+PODS:
+  - IRRadioButton-swift (1.0.0)
+
+DEPENDENCIES:
+  - IRRadioButton-swift
+
+SPEC REPOS:
+  trunk:
+    - IRRadioButton-swift
+
+SPEC CHECKSUMS:
+  IRRadioButton-swift: d51703291cc130fc611698829af3f6a2a242fe1a
+
+PODFILE CHECKSUM: cc6c6c2041c6daa95bb24a9c2cf5d1c78f0269d5
+
+COCOAPODS: 1.10.0
